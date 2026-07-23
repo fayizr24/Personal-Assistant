@@ -2,3 +2,9 @@ flask
 anthropic
 gunicorn
 flask-limiter
+langchain 
+wikipedia 
+langchain-community 
+langchain-anthropic
+pydantic
+duckduckgo-search
